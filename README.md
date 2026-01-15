@@ -83,11 +83,19 @@ These are common questions data analysts work on in online retail businesses.
 ---
 
 ## Visual Outputs
-The analysis includes several supporting visuals, such as:
-- Key business metrics (Total Revenue, Average Order Value)
-- Monthly sales trends
-- Revenue by product category
-- Revenue by region
+
+### KPI Summary
+![KPI Summary](./Visuals/kpi_summary.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](./Visuals/monthly_revenue.png)
+
+### Revenue by Product Category
+![Revenue by Category](./Visuals/revenue_by_category.png)
+
+### Revenue by Region
+![Revenue by Region](./Visuals/revenue_by_region.png)
+
 
 ---
 
